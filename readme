@@ -1,0 +1,16 @@
+fdsreadmedsdfsd
+
+
+download git
+https://git-scm.com/downloads
+
+create/signup github account
+https://github.com/
+
+clone repo
+
+git clone https://github.com/gavena/PUP.git
+
+git credential-manager erase 
+protocol=https
+host=github.com
